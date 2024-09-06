@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986887711210",
+    "firebase_url": "https://test-anything-4daa2-default-rtdb.firebaseio.com",
+    "project_id": "test-anything-4daa2",
+    "storage_bucket": "test-anything-4daa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986887711210:android:81083bcdab06ba174b2a93",
+        "android_client_info": {
+          "package_name": "com.example.astro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986887711210-0q93eu0e7v2fnq9aa1cue5c0uh24l4nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTM_f_bV6XCUYYDQM0d_i4v5AKU5LJsT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986887711210-0q93eu0e7v2fnq9aa1cue5c0uh24l4nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986887711210-ifmk1g1th2q7t2s3fkmvunjhh30pr2kl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aveosoftware.digitalworkout",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
